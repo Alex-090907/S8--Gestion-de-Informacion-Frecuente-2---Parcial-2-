@@ -10,7 +10,7 @@ src
    ├── Conexion.java
    ├── FrmParqueadero.java
    ├── ParqueaderoDAO.java
-   ├── Vehiculo.java
+   └── Vehiculo.java
 
 ```
 # Clase Conexion.java: Conexión con la base de datos
